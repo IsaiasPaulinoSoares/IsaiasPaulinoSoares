@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Isaias Paulino Soares], a passionate self-taught DevOps and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, not only in development but in Continuous Integration and Continuous Development.
+Hi, I'm Isaias Paulino Soares, a passionate self-taught DevOps and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, not only in development but in Continuous Integration and Continuous Development.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love learning and getting new challenges.
 
