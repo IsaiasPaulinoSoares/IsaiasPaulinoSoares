@@ -12,8 +12,6 @@
   <img align="left" alt="Isaias Soares Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm [Isaias Paulino Soares], a passionate self-taught DevOps and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, not only in development but in Continuous Integration and Continuous Development.
