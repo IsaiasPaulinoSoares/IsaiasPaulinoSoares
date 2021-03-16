@@ -35,9 +35,12 @@ I am a dynamic and resourceful multilingual professional (Portuguese, English, S
 ✔ Career Highlights
 
 -> Deployment of a tool that supports pix transactions.
+
 -> Deployment of backup automation process in the Azure cloud.
--> Deployment of self signed digital ssl certificates in api within Azure cloud
--> Deployment of a Vault management solution for data encryption
+
+-> Deployment of self signed digital ssl certificates in api within Azure cloud.
+
+-> Deployment of a Vault management solution for data encryption.
 
 I am always trying to improve my knowledge and also to seek better solutions to the problems that arise, I am passionate about new technologies
 
