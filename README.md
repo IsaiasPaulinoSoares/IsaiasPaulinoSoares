@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/Isaias_0101" target="_blank" target="_blank">
+<a href="https://twitter.com/Isaias_0101">
   <img align="left" alt="Isaias Soares | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/isa%C3%ADas-soares-aa0ba1170/" target="_blank">
+<a href="https://www.linkedin.com/in/isa%C3%ADas-soares-aa0ba1170/">
   <img align="left" alt="Isaias Soares LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
-<a href="https://open.spotify.com/user/227orkudezx3ngovcqz6eaeai?si=kiyIO_VBRvSbFWJ76q9B6A" target="_blank"> 
+<a href="https://open.spotify.com/user/227orkudezx3ngovcqz6eaeai?si=kiyIO_VBRvSbFWJ76q9B6A"> 
   <img align="left" alt="Isaias Soares Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"/>
 </a>
 
