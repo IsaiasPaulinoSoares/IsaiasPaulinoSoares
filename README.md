@@ -28,7 +28,7 @@ Studying the 3rd of 10, semester of Computer Engineering at Universidade Paulist
 
 I graduated in computer technician with an emphasis on development and automation from the University of Vale do Paraíba. I have approximately 10 published scientific articles, one of which is internationally awarded. I was a researcher for the state government for a period of 7 months, in which I helped develop a thermodynamic process and experiment that I even helped to program.
 
-I have experience working in Cloud Enviroments Microsoft Azure and Oracle Cloud, Apigee and DevOps tools.
+I have experience working in Cloud Enviroments Microsoft Azure, Google Cloud Plataform, AWS, Oracle Cloud, Apigee and DevOps tools.
 
 I am a dynamic and resourceful multilingual professional (Portuguese, English, Spanish and French), motivated, trained, focused on goals and open to new challenges.
 
