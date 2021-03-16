@@ -44,6 +44,3 @@ I am a dynamic and resourceful multilingual professional (Portuguese, English, S
 I am always trying to improve my knowledge and also to seek better solutions to the problems that arise, I am passionate about new technologies
 
 Please, do not hesitate to contact me, as I am open to new opportunities to join a dynamic company. 
-
-```
-<!--END_SECTION:waka-->
